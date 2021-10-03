@@ -15,5 +15,5 @@ spec:
         app: example1
     spec:
       containers:
-      - image: nginx:latest
+      - image: redis:latest
         name: nginx
